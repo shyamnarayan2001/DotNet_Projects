@@ -1,0 +1,17 @@
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Sender.exe.config
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Sender.exe
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Sender.pdb
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\enarshy\source\repos\Sender\Sender\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\enarshy\source\repos\Sender\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\enarshy\source\repos\Sender\Sender\obj\Debug\Sender.csproj.CopyComplete
+C:\Users\enarshy\source\repos\Sender\Sender\obj\Debug\Sender.exe
+C:\Users\enarshy\source\repos\Sender\Sender\obj\Debug\Sender.pdb
