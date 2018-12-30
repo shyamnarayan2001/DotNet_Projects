@@ -14,8 +14,10 @@ Ensure that the following softwares are already installed:
 4. Load the Sender.sln solution file into Visual Studio.
 5. Add the Microsoft.Azure.EventHubs NuGet package to the project.
 6. In Program.cs, replace the placeholders in brackets with the proper values that were obtained when creating the event hub.
+```csharp
 static string eventHubName = "Your Event Hub name";
 static string connectionString = "namespace connection string";
+```
 7. Run the program, and ensure that there are no errors.
 
 
