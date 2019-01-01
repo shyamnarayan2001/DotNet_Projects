@@ -1,6 +1,6 @@
 ## Objective
 The objective of this tutorial is to write .NET core code to receive messages from Azure Service Bus.
-===============RECEIVER
+
 ## Pre-requisites
 1. Visual Studio 2017 Update 3 (version 15.3, 26730.01) or later.
 2. NET Core SDK, version 2.0 or later.
